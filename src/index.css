@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+.sriracha-regular {
+    font-family: "Sriracha", cursive;
+    /* font-weight: 400; */
+    font-style: normal;
+  }
+ 
+  .caveat-regular {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+  }
+    
